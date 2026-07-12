@@ -10,6 +10,5 @@
 -torchvision
 -numpy, scipy, pillow
 -opencv-python
--cikit-image
 -tqdm, matplotlib
 ```
