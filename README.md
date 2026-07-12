@@ -12,3 +12,23 @@
 -opencv-python
 -tqdm, matplotlib
 ```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Contacts
+For any inquiries contact Ako Bartani: <a href="mailto:a.bartani@uok.ac.ir">a.bartani [at] uok.ac.ir</a>
