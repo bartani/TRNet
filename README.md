@@ -3,6 +3,7 @@
 ## Contrastive Anchor-Based Task Representation for Instruction-Guided All-in-One Image Restoratio
 ### Authors: Ako Bartani, Omed Sedeeq Ahmad, Mohammed Shamsaddin Qadir, Karwan Ahmed Abdullah, and Fardin Akhlaghian Tab
 
+![Alt text](img/model.png)
 
 ## Requirements
 ```
